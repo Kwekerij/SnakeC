@@ -1,0 +1,11 @@
+﻿  SnakeC.cpp
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(186,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(194,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(194,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(194,13): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(194,13): message : this argument is used as a buffer size
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(223,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(223,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(223,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\SnakeC\SnakeC.cpp(223,17): message : this argument is used as a buffer size
+  SnakeC.vcxproj -> C:\Users\Lukas.ul\Documents\Hochschule\SS2020\Informatik\Studienarbeit\SnakeC\Debug\SnakeC.exe
